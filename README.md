@@ -35,7 +35,6 @@ The dataset includes 40,000+ orders, 100,000+ line items, and 5,000 customers ac
     10_customer_ltv.sql
 
 insights_summary.md
-dataset_description.pdf (optional)
 
 📊 Key Analyses
 
@@ -59,8 +58,6 @@ MySQL
 
 SQL Workbench
 
-Power BI (dashboard coming soon)
-
 Excel / CSV import tools
 
 🎯 What I Learned
@@ -75,15 +72,6 @@ How to extract business insights from raw SQL
 
 How to build a professional, portfolio-ready project
 
-🚀 Future Enhancements
-
-Power BI interactive dashboard
-
-Window function analysis
-
-Cohort retention analysis
-
-Profitability modeling
 
 🙌 Acknowledgements
 
