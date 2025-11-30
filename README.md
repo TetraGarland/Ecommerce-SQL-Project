@@ -22,6 +22,7 @@ The dataset includes 40,000+ orders, 100,000+ line items, and 5,000 customers ac
 
 🗂️ Project Structure
 /sql_queries/
+    
     01_basic_checks.sql
     02_joined_revenue_table.sql
     03_kpi_metrics.sql
