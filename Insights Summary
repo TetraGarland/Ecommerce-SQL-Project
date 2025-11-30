@@ -1,0 +1,80 @@
+📊 E-Commerce Analytics Project — Insights Summary
+
+This project analyzes a simulated e-commerce dataset containing:
+
+40,000+ orders
+
+100,000+ line items
+
+5,000 customers
+
+600+ products
+
+9 relational tables
+
+The objective is to practice SQL and derive meaningful business insights.
+
+⭐ 1. Revenue & Customer KPIs
+
+Total Revenue: Derived from all order items multiplied by unit price.
+
+Total Orders: 40K+ orders across multiple years.
+
+Total Customers: ~5K unique buyers.
+
+Insight: Revenue is heavily concentrated among a smaller subset of repeat buyers, which suggests that retention and loyalty programs would yield high ROI.
+
+📅 2. Monthly Revenue Trends
+
+Revenue displays consistent seasonality.
+
+Clear peaks occur during holiday months (Nov–Dec).
+
+Slower periods appear mid-year.
+
+Insight: Marketing spend should be shifted toward Q4, with experimentation in offseason months.
+
+🛒 3. Top Customers
+
+The top 10 customers contribute disproportionately to total revenue.
+
+Many consistently purchase high-value products.
+
+Insight: Personalized outreach (discounts, early access, loyalty rewards) could significantly boost LTV.
+
+📦 4. Product & Category Performance
+
+A small set of products drive the majority of revenue.
+
+Certain categories consistently outperform others.
+
+Insight: Prioritizing inventory and advertising toward these high-performers is recommended.
+
+🔄 5. Returns Behavior
+
+Return rates differ significantly by category.
+
+Electronics and apparel categories show higher return percentages.
+
+Certain return reasons cluster around specific suppliers.
+
+Insight:
+Addressing quality issues or setting better expectations on sizing/specs could reduce returns.
+
+🚚 6. Shipping Efficiency
+
+Delivery times vary across carriers.
+
+Some carriers consistently deliver faster but at higher shipping cost.
+
+Insight:
+Optimize shipping partners by balancing speed vs. cost per region.
+
+💙 7. Customer Lifetime Value (LTV)
+
+High-LTV customers tend to reorder in cycles.
+
+Most revenue comes from repeat customers, not one-time buyers.
+
+Insight:
+Retention strategies (emails, bundles, subscriptions) would likely improve profitability.
